@@ -138,3 +138,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Other
 
 - ton_lib_proc_macro, TLBDerive ([#39](https://github.com/Sild/libs_rs/pull/39))
+
+<!-- Auto-update: 2025-10-25T11:21:55.500862 -->
